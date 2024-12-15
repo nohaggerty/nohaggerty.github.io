@@ -136,7 +136,7 @@ footer p {
     filter: grayscale(100%);
 }
 
-/* Articles */
+/* Article Container */
 
 .article {
     padding: 20px 0;
@@ -157,4 +157,34 @@ footer p {
 
 .article a:hover {
     color: #535353;
+}
+
+/* Articles Page */
+
+.page-title {
+    text-align: center;
+    max-width: 100%;
+}
+
+#pagination-controls {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pagination-controls button {
+    font-size: 24px;
+    border: none;
+    background-color: #fff;
+    color:#000;
+}
+
+#pagination-controls button:hover {
+    color: #535353;
+}
+
+#pagination-controls #pg-info {
+    font-size: 24px;
+    margin: 0 40px;
 }
