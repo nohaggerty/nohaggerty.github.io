@@ -1,25 +1,108 @@
-/* general reset */
+/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Main Content */ 
+
 body {
     font-size: 20px;
-    padding: 40px 5%;
+    font-family: "Cormorant Garamond", serif;
+    padding: 100px 5%;
 }
 
 h1 {
-    font-family: "Cormorant Garamond", serif;
     margin-bottom: 1em;
 }
 
 p {
-    font-family: "Cormorant Garamond", serif;
     font-weight: 500;
     margin-bottom: 1em;
 }
+
+hr {
+    margin: 40px 0;
+    height: 1px;
+}
+
+nav ul { /* header, footer */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li { /* header, footer */
+    margin-right: 20px; 
+}
+
+/* Header */
+
+header {
+    background-color: #eee;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #000;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 0 20px;
+}
+
+header a {
+    text-decoration: none; /* Remove underlines from links */
+    font-weight: bold;
+    color: #000;
+}
+
+header a:hover {
+    color: #535353;
+}
+
+.header-title {
+    font-family: "Passion One", sans-serif;
+}
+
+/* Footer */
+
+footer {
+    background-color: #eee;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    border-top: 1px solid #000;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 0 20px;
+}
+
+footer a {
+    font-weight: bold; 
+    color: #000;
+}
+
+footer a:hover {
+    color: #535353;
+}
+
+/* Homepage */
 
 .homepage-container {
     display: flex;
@@ -38,7 +121,7 @@ p {
     max-width: 50%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     .homepage-container {
         flex-direction: column; 
         align-items: stretch; 
