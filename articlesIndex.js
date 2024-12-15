@@ -3,9 +3,10 @@ fetch('/articles.json')
     .then(data => {
         const articleContainer = document.getElementById('featured-work-container');
 
-        displayArticles({
+        displayArticlesWithIcon({
             data: data, 
             container: articleContainer, 
-            articleFilter: article => article.featured
+            articleFilter: article => article.featured,
+            range: [0, 10]
         });
     });

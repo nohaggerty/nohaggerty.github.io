@@ -159,6 +159,30 @@ footer p {
     color: #535353;
 }
 
+/* Article With Icon Container */
+
+.article-w-cols {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1%;
+    margin: 40px;
+}
+
+.article-w-cols .text-column {
+    flex: 1;
+    max-width: 90%;
+}
+
+.article-w-cols .img-column {
+    flex: 2;
+    max-width: 150px;
+}
+
+.article-icon {
+    height: 100px;
+}
+
 /* Articles Page */
 
 .page-title {
