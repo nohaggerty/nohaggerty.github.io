@@ -1,0 +1,32 @@
+[
+    {
+        "hed": "How recent wildfires have primed Malibu and the Santa Monica Mountains for more frequent blazes",
+        "date": "12-14-2024",
+        "link": "https://www.latimes.com/environment/story/2024-12-14/how-recent-fires-have-primed-malibu-for-more-wildfires",
+        "publication": "Los Angeles Times",
+        "lede": "A red glow illuminated the valley behind the Brunel family’s Malibu home around 11 p.m. Monday. The fierce Santa Ana winds blowing dry desert air over the mountains and out to sea had already triggered public safety power shutoffs.",
+        "featured": true,
+        "tags": ["Environment", "Fire", "California"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Why the Forest Service is encouraging people to cut Christmas trees on public lands (with permits)",
+        "date": "12-05-2024",
+        "link": "https://www.latimes.com/environment/story/2024-12-05/help-the-forest-service-get-a-killer-christmas-tree-deal",
+        "publication": "Los Angeles Times",
+        "lede": "When it comes to finding the perfect Christmas tree, William Lyon has it down to a science. Every year, Lyon downloads official maps of U.S. Forest Service roads — Apple and Google maps never have them all — and consults satellite imagery, searching for green groves that seem decently accessible and haven’t been scorched by fire.",
+        "featured": false,
+        "tags": ["Environment"],
+        "type": ["article"]
+    },
+    {
+        "hed": "California biofuel project aims to cut wildfire risk, but at what cost?",
+        "date": "12-01-2024",
+        "link": "https://www.latimes.com/environment/story/2024-12-01/wood-biofuel-project-could-worsen-air-quality-critics-say",
+        "publication": "Los Angeles Times",
+        "lede": "STOCKTON, Calif. —  For Laura Ornelas and thousands of other South Stockton residents, harmful air pollution is a fact of life. Hemmed in by freeways and rail lines and bordered by heavy industry and the Port of Stockton, the area has been dubbed an “Asthma Capital” by the Asthma and Allergy Foundation of America.",
+        "featured": true,
+        "tags": ["Environment"],
+        "type": ["article", "photo"]
+    }
+]

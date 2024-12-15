@@ -8,10 +8,10 @@
 
 /* Main Content */ 
 
-body {
+.main-content {
     font-size: 20px;
     font-family: "Cormorant Garamond", serif;
-    padding: 100px 5%;
+    padding: 40px 5%;
 }
 
 h1 {
@@ -41,13 +41,10 @@ nav ul li { /* header, footer */
 
 /* Header */
 
-header {
+.header-content {
     background-color: #eee;
     padding: 20px 0;
-    position: fixed;
     width: 100%;
-    top: 0;
-    left: 0;
     z-index: 1000;
     border-bottom: 1px solid #000;
 }
@@ -75,13 +72,10 @@ header a:hover {
 
 /* Footer */
 
-footer {
+.footer-content {
     background-color: #eee;
     padding: 20px 0;
-    position: fixed;
     width: 100%;
-    bottom: 0;
-    left: 0;
     z-index: 1000;
     border-top: 1px solid #000;
 }
@@ -100,6 +94,10 @@ footer a {
 
 footer a:hover {
     color: #535353;
+}
+
+footer p {
+    margin-bottom: 0;
 }
 
 /* Homepage */
@@ -136,4 +134,27 @@ footer a:hover {
     max-width: 100%;
     height: auto;
     filter: grayscale(100%);
+}
+
+/* Articles */
+
+.article {
+    padding: 20px 0;
+}
+
+.article h2 {
+    font-family: "Passion One", sans-serif;
+}
+
+.article h3 {
+    font-style: italic;
+}
+
+.article a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #000;
+}
+
+.article a:hover {
+    color: #535353;
 }
