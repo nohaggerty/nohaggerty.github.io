@@ -190,6 +190,24 @@ footer p {
     max-width: 100%;
 }
 
+
+.article-selector-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+    padding: 40px 0;
+}
+
+.article-selector-container option {
+    margin: 0 40px;
+    cursor: pointer;
+}
+
+.article-selector-container img {
+    height: 100px;
+    width: auto;
+}
+
 #pagination-controls {
     max-width: 100%;
     display: flex;

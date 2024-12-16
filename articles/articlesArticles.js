@@ -5,12 +5,16 @@ async function fetchArticles() {
 
 const articlesPerPage = 5;
 let currentPage = 1;
-let selector = "none";
 const container = document.getElementById('article-container');
+
+const displayOptions = document.querySelectorAll('.article-selector-container .option');
+const realSelect = document.getElementById('article-selector-real');
+realSelect.value = "None";
+const titleText = document.getElementById('articles-page-title');
 
 function selectorFilter(article, selector) {
     if (!(article.show)) {return false;}
-    else if (selector === "none") {return true;}
+    else if (selector === "None") {return true;}
     else {return article.tags.includes(selector);}
 }
 
@@ -40,27 +44,47 @@ function addPaginationListeners(articles){
     document.getElementById('prv-btn').addEventListener('click', () => {
         if (currentPage > 1) {
             currentPage--;
-            updateDisplayedArticles(articles, currentPage, selector);
-            updatePagination(articles, currentPage, selector);
+            updateDisplayedArticles(articles, currentPage, realSelect.value);
+            updatePagination(articles, currentPage, realSelect.value);
         }
     });
 
     document.getElementById('nxt-btn').addEventListener('click', () => {
-        const filteredArticles = articles.filter(article => selectorFilter(article, selector))
+        const filteredArticles = articles.filter(article => selectorFilter(article, realSelect.value))
         const totalArticles = filteredArticles.length; //TODO: not the cleanest way to handle this ...
         const totalPages = Math.ceil(totalArticles / articlesPerPage);
     
         if (currentPage < totalPages) {
             currentPage++;
-            updateDisplayedArticles(articles, currentPage, selector);
-            updatePagination(articles, currentPage, selector);
+            updateDisplayedArticles(articles, currentPage, realSelect.value);
+            updatePagination(articles, currentPage, realSelect.value);
         }
     });
+
+    displayOptions.forEach(option => {
+        option.addEventListener('click', () => {
+            displayOptions.forEach(opt => opt.classList.remove('selected'));
+
+            option.classList.add('selected');
+
+            realSelect.value = option.getAttribute('value');
+
+            updateDisplayedArticles(articles, currentPage, realSelect.value);
+            updatePagination(articles, currentPage, realSelect.value);
+            
+            if (realSelect.value === "None") {
+                titleText.textContent = "Articles";
+            }
+            else {
+                titleText.textContent = realSelect.value + " Articles";
+            }
+        })
+    })
 }
 
 (async function init() {
     const articles = await fetchArticles();
-    updateDisplayedArticles(articles, currentPage, selector);
-    updatePagination(articles, currentPage, selector);
+    updateDisplayedArticles(articles, currentPage, realSelect.value);
+    updatePagination(articles, currentPage, realSelect.value);
     addPaginationListeners(articles);
 })();
