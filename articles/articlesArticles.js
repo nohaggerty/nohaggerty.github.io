@@ -7,7 +7,7 @@ const articlesPerPage = 5;
 let currentPage = 1;
 const container = document.getElementById('article-container');
 
-const displayOptions = document.querySelectorAll('.article-selector-container .option');
+const displayOptions = document.querySelectorAll('#article-selector-container .option');
 const realSelect = document.getElementById('article-selector-real');
 realSelect.value = "None";
 const titleText = document.getElementById('articles-page-title');
