@@ -76,7 +76,7 @@ function addPaginationListeners(articles){
                 titleText.textContent = "Articles";
             }
             else {
-                titleText.textContent = realSelect.value + " Articles";
+                titleText.textContent = "The " + realSelect.value + " Beat";
             }
         })
     })

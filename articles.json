@@ -1,5 +1,17 @@
 [
     {
+        "hed": "CPUC approves $723 million in ratepayer costs to extend life of Diablo Canyon nuclear plant",
+        "date": "12-19-2024",
+        "link": "https://www.latimes.com/environment/story/2024-12-19/cpuc-approves-723-million-dollars-to-extend-life-of-nuclear-plant",
+        "publication": "Los Angeles Times",
+        "lede": "The plant was scheduled to begin shutting down in November, but its lifespan was extended in a last-minute legislative deal struck by Gov. Gavin Newsom in 2022.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Environment", "Energy", "California"],
+        "type": ["article"]
+    },
+    {
         "hed": "How recent wildfires have primed Malibu and the Santa Monica Mountains for more frequent blazes",
         "date": "12-14-2024",
         "link": "https://www.latimes.com/environment/story/2024-12-14/how-recent-fires-have-primed-malibu-for-more-wildfires",
@@ -482,7 +494,7 @@
     {
         "hed": "15 minutes to save a soldier: Northeastern researcher make tech to coordinate care on the battlefield",
         "date": "06-29-2024",
-        "link": "",
+        "link": "/articles/2024-06-29-save-a-soldier.html",
         "publication": "Science Media Lab",
         "lede": "When an American soldier gets seriously injured on the battlefield, a carefully executed plan is put into motion. A field medic rushes over to administer emergency care — anything from applying a truncate to injecting the wounded soldier with morphine. The medic calls another soldier over, who rips a “tactical combat casualty care card” off.",
         "featured": false,

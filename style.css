@@ -12,6 +12,7 @@
     font-size: 20px;
     font-family: "Cormorant Garamond", serif;
     padding: 40px 5%;
+    min-height: calc(100vh - 118.4px);
 }
 
 h1 {
@@ -66,7 +67,7 @@ header a:hover {
     color: #535353;
 }
 
-.header-title {
+#header-title {
     font-family: "Passion One", sans-serif;
 }
 
@@ -123,6 +124,12 @@ footer p {
     max-width: 100%;
     height: auto;
     filter: grayscale(100%);
+}
+
+#homepage-title {
+    font-family: "Passion One", sans-serif;
+    font-size: 2.5em;
+    margin-bottom: 0;
 }
 
 /* Article Container */
@@ -234,4 +241,20 @@ footer p {
     #article-selector-container {
         grid-template-columns: repeat(4, 1fr);
     }
+}
+
+/* Individual Articles Pages */
+
+.article-head {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.article-head h1 {
+    font-family: "Passion One", sans-serif;
+    margin-bottom: 0;
+}
+
+.article-head .publication-name {
+    font-style: italic;
 }
