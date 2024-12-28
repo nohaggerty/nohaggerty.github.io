@@ -29,6 +29,10 @@ hr {
     height: 1px;
 }
 
+a {
+    color:#000;
+}
+
 nav ul { /* header, footer */
     list-style-type: none;
     margin: 0;
@@ -257,4 +261,54 @@ footer p {
 
 .article-head .publication-name {
     font-style: italic;
+}
+
+.article-body {
+    padding: 0 max(10%, 40px);
+}
+
+/* Photography page */
+
+.page-description {
+    padding: 0 max(10%, 40px);
+}
+
+.single-photo {
+    padding: 0 max(25%, 40px);
+}
+
+img.gallery {
+    max-width: 100%;
+    height: auto;
+}
+
+.double-photo {
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+}
+
+.double-photo .left-photo {
+    flex: 2;
+    max-width: 50%;
+}
+
+.double-photo .right-photo {
+    flex: 1;
+    max-width: 50%;
+}
+
+@media (max-width: 1080px) {
+    .single-photo {
+        padding: 0 0;
+    }
+
+    .double-photo {
+        flex-direction: column; 
+        align-items: stretch; 
+    }
+
+    .double-photo .left-photo, .double-photo .right-photo {
+        max-width: 100%; 
+    }
 }

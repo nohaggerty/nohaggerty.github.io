@@ -1,5 +1,17 @@
 [
     {
+        "hed": "California’s piers may not be able to withstand climate change",
+        "date": "12-28-2024",
+        "link": "https://www.latimes.com/environment/story/2024-12-28/californias-piers-may-not-be-able-to-withstand-climate-change",
+        "publication": "Los Angeles Times",
+        "lede": "Climate change continues to worsen the coastal storms that batter California’s aging piers. The result is frequent and expensive repairs.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Environment", "Ocean", "California"],
+        "type": ["article"]
+    },
+    {
         "hed": "CPUC approves $723 million in ratepayer costs to extend life of Diablo Canyon nuclear plant",
         "date": "12-19-2024",
         "link": "https://www.latimes.com/environment/story/2024-12-19/cpuc-approves-723-million-dollars-to-extend-life-of-nuclear-plant",
@@ -530,7 +542,7 @@
     {
         "hed": "The aftermath of COVID-19 continues to hurt high schoolers. Chieh Li has a vision for healing.",
         "date": "05-10-2024",
-        "link": "",
+        "link": "/articles/2024-05-10-high-school-healing.html",
         "publication": "Science Media Lab",
         "lede": "English class started differently for ESL students at a public high school in Hawaii in the spring of 2019. Instead of launching into a PowerPoint presentation or instructing students to open their textbooks, the teacher pressed play on an audio track. “Gently close your eyes,” said a voice from the speakers.",
         "featured": false,
@@ -542,7 +554,7 @@
     {
         "hed": "Nurses need saving, too: Northeastern research shows how substance abuse treatment in the nursing community is mishandled",
         "date": "05-01-2024",
-        "link": "",
+        "link": "/articles/2024-05-01-nurses-need-saving.html",
         "publication": "Science Media Lab",
         "lede": "She uncovered the problem by accident. In 2014, as a nurse and researcher at Johns Hopkins Hospital, Amanda Choflet began researching substance use disorders in cancer patients. Then, unexpectedly, her nursing colleagues started confiding in her about their own substance abuse battles.",
         "featured": false,
@@ -602,7 +614,7 @@
     {
         "hed": "Middle schoolers learned climate science by designing video games, shows Boston-area research program",
         "date": "02-23-2024",
-        "link": "",
+        "link": "/articles/2024-02-23-middle-school-climate-science.html",
         "publication": "Science Media Lab",
         "lede": "There’s a smiling sun that says, “Use the ice to reflect the sunlight and keep the ocean from absorbing heat.” So, you drag a cute little iceberg back and forth using your cursor — battling the sun, ping-pong style.",
         "featured": false,
@@ -626,7 +638,7 @@
     {
         "hed": "How a Northeastern lab developed one of the largest underwater microphone arrays in academia, bolstering the research community’s ability to listen to marine ecosystems",
         "date": "01-19-2024",
-        "link": "",
+        "link": "/articles/2024-01-19-underwater-microphone.html",
         "publication": "Science Media Lab",
         "lede": "In early September 2021, researchers lowered a device into the water for the first time, off the coast of Rhode Island. It’s a string of wires, electronics and microphones that look like Christmas lights but a tenth of a mile long. When the researchers finally turned it on, it recorded the sounds of marine life in an area larger than the state of Connecticut.",
         "featured": false,
@@ -650,7 +662,7 @@
     {
         "hed": "Climate modelers can’t agree on the Mississippi River’s future. Northeastern professor Samuel Muñoz is settling the debate.",
         "date": "11-21-2023",
-        "link": "",
+        "link": "/articles/2023-11-21-climate-modelers-mississippi.html",
         "publication": "Science Media Lab",
         "lede": "The Mississippi River, an ecological, cultural and economic hub of activity, is dangerously misunderstood — at least, by climate modelers. ",
         "featured": false,
@@ -662,7 +674,7 @@
     {
         "hed": "Making video games for queer people is about more than queer characters",
         "date": "10-12-2023",
-        "link": "",
+        "link": "/articles/2023-10-12-queering-video-games.html",
         "publication": "Science Media Lab",
         "lede": "The seemingly limitless world of The Sims — a game in which players can raise a family, build a house and even burn it down — was making its debut at a conference in 1999. The developers were presenting a tame demo of a man and woman tying the knot, when suddenly, two Sim women in the wedding crowd started passionately making out.",
         "featured": false,
@@ -674,7 +686,7 @@
     {
         "hed": "Meet Northeastern’s new astrophysics professors who hope to shed light on dark matter and dark energy",
         "date": "08-24-2023",
-        "link": "",
+        "link": "/articles/2023-08-24-meet-northeastern-astrophysics.html",
         "publication": "Science Media Lab",
         "lede": "Astronomers are pulling out all the stops: A telescope tethered to a football-stadium-sized balloon, a camera the size of an SUV and twice as heavy nestled Astronomers are pulling out all the stops: A telescope tethered to a football-stadium-sized balloon, a camera the size of an SUV and twice as heavy nestled in the Chilean mountains, a tiny blue cube filled with chilled liquid argon sitting in a Northeastern lab destined for balloon flights.",
         "featured": false,
