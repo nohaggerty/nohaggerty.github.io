@@ -270,7 +270,7 @@ footer p {
 /* Photography page */
 
 .page-description {
-    padding: 0 max(10%, 40px);
+    padding: 0 10%;
 }
 
 .single-photo {

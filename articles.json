@@ -12,6 +12,18 @@
         "type": ["article"]
     },
     {
+        "hed": "Unpacking CPUC’s decisions on Aliso Canyon and Diablo Canyon",
+        "date": "12-23-2024",
+        "link": "https://laist.com/shows/airtalk/biden-commutes-federal-death-sentences-before-trump-takes-office#unpacking-cpucs-decisions-on-aliso-canyon-and-diablo-canyon",
+        "publication": "LAist AirTalk",
+        "lede": "The California Public Utilities Commission had a busy day on Thursday.",
+        "featured": false,
+        "show": true,
+        "byline": "Larry Mantle, Erin Stone and Noah Haggerty",
+        "tags": ["Environment", "Energy", "California"],
+        "type": ["appearance"]
+    },
+    {
         "hed": "CPUC approves $723 million in ratepayer costs to extend life of Diablo Canyon nuclear plant",
         "date": "12-19-2024",
         "link": "https://www.latimes.com/environment/story/2024-12-19/cpuc-approves-723-million-dollars-to-extend-life-of-nuclear-plant",
@@ -34,6 +46,18 @@
         "byline": "By Noah Haggerty",
         "tags": ["Environment", "Fire", "California"],
         "type": ["article"]
+    },
+    {
+        "hed": "Why the Forest Service is encouraging people to cut Christmas trees on public lands (with permits)",
+        "date": "12-11-2024",
+        "link": "https://www.latimes.com/00000193-b34b-de96-a5d3-ff4ff4e20000-123",
+        "publication": "LA Times Today",
+        "lede": "The National Forest Service really does encourage us to skip the Christmas tree lots and head out into nature to cut down our own trees, but you need a permit and the correct forest.",
+        "featured": false,
+        "show": true,
+        "byline": "Lisa McRee and Noah Haggerty",
+        "tags": ["Environment"],
+        "type": ["appearance"]
     },
     {
         "hed": "Why the Forest Service is encouraging people to cut Christmas trees on public lands (with permits)",
@@ -288,6 +312,18 @@
         "type": ["article"]
     },
     {
+        "hed": "Climate California Live 2024",
+        "date": "09-26-2024",
+        "link": "https://www.latimes.com/9cgfubrslw-123",
+        "publication": "Los Angeles Times",
+        "lede": "Los Angeles Times journalists discuss the climate in crisis during a live event highlighting the publication of The Los Angeles Times Climate Change Challenge special section.",
+        "featured": false,
+        "show": true,
+        "byline": "Sammy Roth, Rosanna Xia, Tony Briscoe, Monte Morin, Susanne Rust, Russ Mitchell, Lila Seidman, Alice Short, Alyssa Jaipersaud, Noah Haggerty and Ian James",
+        "tags": ["Environment", "California"],
+        "type": ["appearance"]
+    },
+    {
         "hed": "Newsom’s office announces new California environmental campaign at Climate Week NYC",
         "date": "09-23-2024",
         "link": "https://www.latimes.com/environment/story/2024-09-23/newsom-seeks-to-enlist-californians-in-climate-action",
@@ -430,6 +466,30 @@
         "byline": "By Noah Haggerty",
         "tags": ["Physics", "Space", "Science"],
         "type": ["article"]
+    },
+    {
+        "hed": "How Death Valley National Park tries to keep visitors alive amid record heat",
+        "date": "07-26-2024",
+        "link": "https://www.latimes.com/california/00000190-f08c-d532-a3b2-fafdf6080000-123",
+        "publication": "LA Times Today",
+        "lede": "Hundreds of tourists flock to Death Valley National Park amid scorching temperatures, despite it being known one of the most extreme environments in the world. Triple-digit heat is not uncommon at the park and has led to fatalities at the park, including at least one death this month.",
+        "featured": false,
+        "show": true,
+        "byline": "Lisa McRee and Noah Haggerty",
+        "tags": ["Environment", "Recreation"],
+        "type": ["appearance"]
+    },
+    {
+        "hed": "As California’s climate grows ever more hostile, a Joshua tree rescue plan takes shape",
+        "date": "07-26-2024",
+        "link": "https://www.latimes.com/environment/00000190-f010-d532-a3b2-fa7568000000-123",
+        "publication": "LA Times Today",
+        "lede": "Joshua trees are struggling to adapt to the increasingly hot and dry conditions brought on by climate change. Scientists fear they could disappear almost entirely from southern California – including Joshua Tree National Park.",
+        "featured": false,
+        "show": true,
+        "byline": "Lisa McRee and Noah Haggerty",
+        "tags": ["Environment"],
+        "type": ["appearance"]
     },
     {
         "hed": "‘Hydrothermal’ explosion sends visitors fleeing at Yellowstone National Park",

@@ -13,7 +13,7 @@ realSelect.value = "None";
 const titleText = document.getElementById('articles-page-title');
 
 function selectorFilter(article, selector) {
-    if (!(article.show)) {return false;}
+    if (!(article.show) || !(article.type.includes("article"))) {return false;}
     else if (selector === "None") {return true;}
     else {return article.tags.includes(selector);}
 }
