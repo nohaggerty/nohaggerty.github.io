@@ -18,7 +18,7 @@ monthsMap.set("12", "December");
 
 function formatDate(dateStr) {
     const month = dateStr.slice(0,2);
-    const day = dateStr.slice(3,5);
+    let day = dateStr.slice(3,5);
     const year = dateStr.slice(6,10);
 
     if (day[0] === "0") {
