@@ -3,7 +3,7 @@ async function fetchArticles() {
     return response.json();
 }
 
-const articlesPerPage = 5;
+const articlesPerPage = 10;
 let currentPage = 1;
 const container = document.getElementById('article-container');
 
