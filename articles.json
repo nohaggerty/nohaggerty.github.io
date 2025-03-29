@@ -56,7 +56,7 @@
         "featured": false,
         "show": true,
         "byline": "By Noah Haggerty and Ian James",
-        "tags": ["Fire", "Environment", "California"],
+        "tags": ["Fire", "Environment", "California", "Science", "Health"],
         "type": ["article"]
     },
     {
@@ -84,6 +84,18 @@
         "type": ["article"]
     },
     {
+        "hed": "Cal Fire’s predictions didn’t foresee the Altadena inferno. Now it’s changing its fire-hazard maps",
+        "date": "02-26-2025",
+        "link": "https://www.latimes.com/00000195-3f88-d704-a3d7-3ffe47130000-123",
+        "publication": "LA Times Today",
+        "lede": "When wildfire ripped through Altadena, Cal Fire had maps that showed most of the city was not at a very high fire hazard risk, yet 17 people died and more than 9,000 structures were destroyed in that fire. Now those maps have been redrawn.",
+        "featured": false,
+        "show": true,
+        "byline": "Lisa McRee and Noah Haggerty",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["article"]
+    },
+    {
         "hed": "Cal Fire releases new hazard maps for the Bay Area and wine country",
         "date": "02-25-2025",
         "link": "https://www.latimes.com/environment/story/2025-02-25/cal-fire-releases-new-hazard-maps-for-coastal-nor-cal",
@@ -104,7 +116,19 @@
         "featured": false,
         "show": true,
         "byline": "By Noah Haggerty",
-        "tags": ["Fire", "Environment", "California"],
+        "tags": ["Fire", "Environment", "California", "Science", "Health"],
+        "type": ["article"]
+    },
+    {
+        "hed": "NASA launches Europa Clipper to see if Jupiter’s icy moon has ingredients for life",
+        "date": "02-19-2025",
+        "link": "https://www.latimes.com/00000195-1f57-df26-a397-3fd7d5ee0000-123",
+        "publication": "LA Times Today",
+        "lede": "It was a history making launch -- when NASA’s Europa Clipper embarked on its long five-year voyage to Jupiter. The $5 billion spacecraft is the largest ever built for a mission headed to another planet. It’s goal? To find alien life.",
+        "featured": false,
+        "show": true,
+        "byline": "Lisa McRee and Noah Haggerty",
+        "tags": ["Science", "Space"],
         "type": ["article"]
     },
     {
@@ -152,7 +176,7 @@
         "featured": false,
         "show": true,
         "byline": "By Noah Haggerty",
-        "tags": ["Environment", "California"],
+        "tags": ["Environment", "California", "Politics"],
         "type": ["article"]
     },
     {
@@ -164,7 +188,7 @@
         "featured": true,
         "show": true,
         "byline": "By Noah Haggerty, Ben Poston and Sean Greene",
-        "tags": ["Fire", "Environment", "California"],
+        "tags": ["Fire", "Environment", "California", "Science"],
         "type": ["article"]
     },
     {
