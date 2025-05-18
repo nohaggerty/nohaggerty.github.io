@@ -12,6 +12,18 @@
         "type": ["article"]
     },
     {
+        "hed": "Forged in Fire: Covering the science behind the 2025 fires and LA’s recovery",
+        "date": "05-08-2025",
+        "link": "",
+        "publication": "Arcadia High School",
+        "lede": "From the science behind how fire moves through ecosystems to the environmental health concequences they leave behind, the Los Angeles Times is covering the groundbreaking science happening here in L.A.",
+        "featured": false,
+        "show": true,
+        "byline": "Noah Haggerty",
+        "tags": [],
+        "type": ["appearance"]
+    },
+    {
         "hed": "Indigenous tribes pitted against each other over a state bill to redefine land protection in California",
         "date": "05-06-2025",
         "link": "https://www.latimes.com/environment/story/2025-05-06/bill-to-limit-indigenous-tribes-ability-to-protect-their-land-faces-opposition",
@@ -72,6 +84,30 @@
         "type": ["article"]
     },
     {
+        "hed": "Ask A Reporter: Fast Break Desk in Action",
+        "date": "04-26-2025",
+        "link": "https://events.latimes.com/festivalofbooks/schedule/?eventId%5Bdf07e1b3-4a35-4160-8bd9-b1f1fbd70a16%5D=f6c3ff49-2ec5-4dcf-a45b-8029c9caeb0b",
+        "publication": "Los Angeles Times",
+        "lede": "Discover how the Times' fast-moving, award-winning news team mobilizes and accelerates coverage after major breaking news events, including the devastating Palisades and Eaton wildfires.",
+        "featured": false,
+        "show": true,
+        "byline": "Monte Morin, Clara Harter, Karen Garcia, Grace Toohey, Joseph Serna, Nathan Solis, Noah Goldberg and Noah Haggerty",
+        "tags": [],
+        "type": ["appearance"]
+    },
+    {
+        "hed": "Los Angeles Times 2024 Book Prize Science and Technology Presenter",
+        "date": "04-25-2025",
+        "link": "https://www.latimes.com/entertainment-arts/books/story/2025-04-25/la-times-book-prize-winners-2025-politics-hope",
+        "publication": "Los Angeles Times",
+        "lede": "It was a night of literary excellence at the 45th Los Angeles Times Book Prizes ceremony Friday night at USC’s Bovard Auditorium.",
+        "featured": false,
+        "show": true,
+        "byline": "Noah Haggerty",
+        "tags": [],
+        "type": ["appearance"]
+    },
+    {
         "hed": "A ‘calamity waiting to unfold’: Altadena residents with standing homes fear long-term health effects",
         "date": "04-16-2025",
         "link": "https://www.latimes.com/environment/story/2025-04-16/altadenas-residents-with-standing-homes-fear-long-term-health-effects",
@@ -130,6 +166,18 @@
         "byline": "By Noah Haggerty",
         "tags": ["Politics"],
         "type": ["article"]
+    },
+    {
+        "hed": "Climate Conversations with a LA Times Reporter",
+        "date": "03-20-2025",
+        "link": "https://www.wlac.edu/campus-life/events/2025/3/20/updated-link-climate-conversations-w-la-times-reporter",
+        "publication": "West LA College",
+        "lede": "L.A. Times climate reporter Noah Haggerty shares how climate change narratives shape public perception and the media's role in this dialogue.",
+        "featured": false,
+        "show": true,
+        "byline": "Noah Haggerty",
+        "tags": [],
+        "type": ["appearance"]
     },
     {
         "hed": "Amid tense clashes between NASA and Musk, two NASA science missions launch on SpaceX rocket",
@@ -237,7 +285,7 @@
         "show": true,
         "byline": "Lisa McRee and Noah Haggerty",
         "tags": ["Science", "Space"],
-        "type": ["article"]
+        "type": ["appearance"]
     },
     {
         "hed": "Inside the battle to restore drinking water in Altadena and Pacific Palisades",
@@ -250,6 +298,18 @@
         "byline": "By Noah Haggerty",
         "tags": ["Fire", "Environment", "California"],
         "type": ["article"]
+    },
+    {
+        "hed": "What is taking so long for clean drinking water after the fires?",
+        "date": "02-14-2025",
+        "link": "https://www.latimes.com/00000194-f796-df26-a396-ff97b63b0000-123",
+        "publication": "Los Angeles Times",
+        "lede": "Water utilities in Altadena and Pacific Palisades are undertaking an arduous process of repressurizing their underground pipelines, testing for contaminants and attempting to flush them out.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty, Allen J. Schaben and Albert Brave Tiger Lee",
+        "tags": ["Fire", "California"],
+        "type": ["video"]
     },
     {
         "hed": "Cal Fire begins releasing new state-mandated maps showing highest fire hazard areas",
@@ -468,11 +528,23 @@
         "type": ["article"]
     },
     {
+        "hed": "1,100 structures burned, 2 dead, zero containment for L.A. area fires",
+        "date": "01-08-2025",
+        "link": "https://www.latimes.com/00000194-4823-db81-adfc-fa27e2c50000-123",
+        "publication": "Los Angeles Times",
+        "lede": "More than 1,100 homes, businesses and other buildings have burned and at least two people are dead in wildfires scorching communities across Los Angeles County, making this one of the most destructive firestorms to hit the region in memory.",
+        "featured": false,
+        "show": true,
+        "byline": "By Robert Gauthier, Nathan Solis, Melissa Gomez, Allen J. Schaben, Mark E. Potts and Noah Haggerty",
+        "tags": ["Fire", "California"],
+        "type": ["video"]
+    },
+    {
         "hed": "Massive damage along the Pacific Coast Highway",
         "date": "01-08-2025",
         "link": "https://www.latimes.com/00000194-4832-db81-adfc-fa37f3600000-123",
         "publication": "Los Angeles Times",
-        "lede": "",
+        "lede": "Los Angeles Times reporter Noah Haggerty is in Malibu reporting on the damage the fires have done, destroying hundreds of buildings.",
         "featured": false,
         "show": true,
         "byline": "By Noah Haggerty and Mark E. Potts",
@@ -490,6 +562,18 @@
         "byline": "By Hannah Fry, Noah Haggerty, Grace Toohey, Ruben Vives, Richard Winton, Clara Harter and Terry Castleman",
         "tags": ["Fire", "California"],
         "type": ["article"]
+    },
+    {
+        "hed": "Massive damage along the Pacific Coast Highway",
+        "date": "01-08-2025",
+        "link": "https://www.latimes.com/00000194-4832-db81-adfc-fa37f3600000-123",
+        "publication": "Los Angeles Times",
+        "lede": "Los Angeles Times reporter Noah Haggerty is in Malibu reporting on the damage the fires have done, destroying hundreds of buildings.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty and Mark E. Potts",
+        "tags": ["Fire", "California"],
+        "type": ["video"]
     },
     {
         "hed": "Palisades fire: Worst is ‘yet to come’ as winds gain speed, ground aircraft",
