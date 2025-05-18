@@ -3,7 +3,7 @@ async function fetchArticles() {
     return response.json();
 }
 
-const articlesPerPage = 5;
+const articlesPerPage = 10;
 let currentPage = 1;
 const container = document.getElementById('article-container');
 
@@ -44,7 +44,7 @@ function addPaginationListeners(articles){
     });
 
     document.getElementById('nxt-btn').addEventListener('click', () => {
-        const filteredArticles = articles.filter(article => selectorFilter(article, realSelect.value))
+        const filteredArticles = articles.filter(article => selectorFilter(article, "None"))
         const totalArticles = filteredArticles.length; //TODO: not the cleanest way to handle this ...
         const totalPages = Math.ceil(totalArticles / articlesPerPage);
     
