@@ -1,5 +1,41 @@
 [
     {
+        "hed": "Nearly half of Pasadena Unified schools have contaminated soil, district finds",
+        "date": "05-16-2025",
+        "link": "https://www.latimes.com/environment/story/2025-05-16/nearly-half-of-pasadena-unified-schools-have-contaminated-soil-district-finds",
+        "publication": "Los Angeles Times",
+        "lede": "Eleven of the 23 schools in the Pasadena Unified School District have soil contaminated with dangerous levels of lead and arsenic, according to data released this week.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty and Tony Briscoe",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Researchers call on Newsom to pay for post-fire soil testing in Los Angeles County",
+        "date": "05-15-2025",
+        "link": "https://www.latimes.com/environment/story/2025-05-15/researchers-call-on-newsom-to-pay-for-soil-testing",
+        "publication": "Los Angeles Times",
+        "lede": "A group of environmental researchers is calling on the Newsom administration to step in and pay for soil testing at thousands of homes destroyed in the Eaton and Palisades wildfires.",
+        "featured": false,
+        "show": true,
+        "byline": "By Tony Briscoe and Noah Haggerty",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Researchers find drinking water is safe in Eaton, Palisades burn areas as utilities lift last ‘do not drink’ order",
+        "date": "05-13-2025",
+        "link": "https://www.latimes.com/environment/story/2025-05-13/researchers-find-drinking-water-is-safe-in-eaton-palisades-burn-areas",
+        "publication": "Los Angeles Times",
+        "lede": "The team of scientists found only one water sample with benzene, suggesting that the water is generally safe to drink across Altadena and the Pacific Palisades.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["article"]
+    },
+    {
         "hed": "Water now safe to drink from all fire-affected utilities in L.A. area, state says",
         "date": "05-09-2025",
         "link": "https://www.latimes.com/environment/story/2025-05-09/clean-drinking-water-restored-altadena-fires",
