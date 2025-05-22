@@ -1,5 +1,41 @@
 [
     {
+        "hed": "Only a fraction of fire cleanup workers are protecting themselves against toxic debris. One community center is fighting to change that",
+        "date": "05-22-2025",
+        "link": "https://www.latimes.com/environment/story/2025-05-22/fire-cleanup-workers-not-protecting-themselves-against-toxic-debris",
+        "publication": "Los Angeles Times",
+        "lede": "A new study shows that only a quarter of fire cleanup workers in Altadena wore gloves, a fifth wore a protective mask, and a mere tenth donned full Tyvek suits, as required by California’s fire cleanup regulations.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Residents can now have their soil tested for lead around Eaton burn area, thanks to free county program",
+        "date": "05-22-2025",
+        "link": "https://www.latimes.com/environment/story/2025-05-22/residents-can-now-have-their-soil-tested-for-lead-in-eaton-burn-area",
+        "publication": "Los Angeles Times",
+        "lede": "Residents in the Eaton burn area and downwind can now send in soil samples from their yard to test for lead, a potent neurotoxin that’s especially dangerous for kids.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Nearly half of Pasadena Unified schools have contaminated soil, district finds",
+        "date": "05-21-2025",
+        "link": "hhttps://www.latimes.com/00000196-f3d2-d2b7-a1d7-fbfb12480000-123",
+        "publication": "LA Times Today",
+        "lede": "A study shows nearly half of the schools in the Pasadena Unified School District have contaminated soil from the Eaton fire.",
+        "featured": false,
+        "show": true,
+        "byline": "Kate Cagle and Noah Haggerty",
+        "tags": ["Fire", "Environment", "California"],
+        "type": ["appearance"]
+    },
+    {
         "hed": "Nearly half of Pasadena Unified schools have contaminated soil, district finds",
         "date": "05-16-2025",
         "link": "https://www.latimes.com/environment/story/2025-05-16/nearly-half-of-pasadena-unified-schools-have-contaminated-soil-district-finds",
