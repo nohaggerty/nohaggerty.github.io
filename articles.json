@@ -1,4 +1,28 @@
 [
+        {
+        "hed": "Firefighters make significant progress on Mono County blaze that prompted evacuations",
+        "date": "05-25-2025",
+        "link": "https://www.latimes.com/environment/story/2025-05-25/firefighters-make-significant-progress-on-mono-county-blaze-that-prompted-evacuations",
+        "publication": "Los Angeles Times",
+        "lede": "Fire crews started making progress on containment Sunday after the Inn fire grew to more than 500 acres Thursday night, prompting evacuations.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "California"],
+        "type": ["article"]
+    },
+        {
+        "hed": "Triple shooting in South L.A. leaves two dead; pair of suspects arrested, one at large",
+        "date": "05-25-2025",
+        "link": "https://www.latimes.com/california/story/2025-05-25/south-l-a-shooting-leaves-two-dead-one-injured",
+        "publication": "Los Angeles Times",
+        "lede": "Two suspects are in custody following a shooting that left two dead and one in the hospital Saturday night. A third suspect is still at large.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": [],
+        "type": ["article"]
+    },
     {
         "hed": "Only a fraction of fire cleanup workers are protecting themselves against toxic debris. One community center is fighting to change that",
         "date": "05-22-2025",
@@ -33,7 +57,7 @@
         "show": true,
         "byline": "Kate Cagle and Noah Haggerty",
         "tags": ["Fire", "Environment", "California"],
-        "type": ["appearance"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "Nearly half of Pasadena Unified schools have contaminated soil, district finds",
@@ -93,7 +117,7 @@
         "show": true,
         "byline": "Noah Haggerty",
         "tags": [],
-        "type": ["appearance"]
+        "type": ["appearance", "speaker"]
     },
     {
         "hed": "Indigenous tribes pitted against each other over a state bill to redefine land protection in California",
@@ -129,14 +153,15 @@
         "show": true,
         "byline": "By Tony Briscoe, Noah Haggerty and Hayley Smith",
         "tags": ["Fire", "Environment", "California"],
-        "type": ["article"]
+        "type": ["article"],
+        "comments": "https://www.latimes.com/00000196-656b-d12e-afbe-f7ff864b0000-123#nt=0000016a-0e43-dffa-a76b-3f6bfa3f0002-showMedia-liI4promoMedium-contentFooter"
     },
     {
         "hed": "What the fires left behind in the soil of Los Angeles homeowners",
         "date": "05-04-2025",
-        "link": "https://www.latimes.com/00000196-656b-d12e-afbe-f7ff864b0000-123#nt=0000016a-0e43-dffa-a76b-3f6bfa3f0002-showMedia-liI4promoMedium-contentFooter",
+        "link": "https://www.youtube.com/watch?v=NPwMAfynbZ4",
         "publication": "Los Angeles Times",
-        "lede": "",
+        "lede": "Officials say removing 6 inches of topsoil is enough to meet health-based clean-up goals, but testing conducted by the Los Angeles Times confirms that some properties are still contaminated. ",
         "featured": false,
         "show": true,
         "byline": "By Albert Brave Tiger Lee, Tony Briscoe, Noah Haggerty, Corinne Purtill and Hayley Smith",
@@ -165,7 +190,7 @@
         "show": true,
         "byline": "Monte Morin, Clara Harter, Karen Garcia, Grace Toohey, Joseph Serna, Nathan Solis, Noah Goldberg and Noah Haggerty",
         "tags": [],
-        "type": ["appearance"]
+        "type": ["appearance", "speaker"]
     },
     {
         "hed": "Los Angeles Times 2024 Book Prize Science and Technology Presenter",
@@ -177,7 +202,7 @@
         "show": true,
         "byline": "Noah Haggerty",
         "tags": [],
-        "type": ["appearance"]
+        "type": ["appearance", "speaker"]
     },
     {
         "hed": "A ‘calamity waiting to unfold’: Altadena residents with standing homes fear long-term health effects",
@@ -201,7 +226,7 @@
         "show": true,
         "byline": "By Noah Haggerty and Albert Brave Tiger Lee",
         "tags": ["Fire", "Environment", "California"],
-        "type": ["video"]
+        "type": ["video", "social"]
     },
     {
         "hed": "Do you live in a wildfire hazard zone? Here’s what that means",
@@ -249,7 +274,7 @@
         "show": true,
         "byline": "Noah Haggerty",
         "tags": [],
-        "type": ["appearance"]
+        "type": ["appearance", "speaker"]
     },
     {
         "hed": "Amid tense clashes between NASA and Musk, two NASA science missions launch on SpaceX rocket",
@@ -357,7 +382,7 @@
         "show": true,
         "byline": "Lisa McRee and Noah Haggerty",
         "tags": ["Science", "Space"],
-        "type": ["appearance"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "Inside the battle to restore drinking water in Altadena and Pacific Palisades",
@@ -381,7 +406,7 @@
         "show": true,
         "byline": "By Noah Haggerty, Allen J. Schaben and Albert Brave Tiger Lee",
         "tags": ["Fire", "California"],
-        "type": ["video"]
+        "type": ["video", "social"]
     },
     {
         "hed": "Cal Fire begins releasing new state-mandated maps showing highest fire hazard areas",
@@ -621,7 +646,7 @@
         "show": true,
         "byline": "By Noah Haggerty and Mark E. Potts",
         "tags": ["Fire", "California"],
-        "type": ["video"]
+        "type": ["video", "social"]
     },
     {
         "hed": "One of the most destructive firestorms in L.A. history kills 5, burns 2,000 buildings",
@@ -634,18 +659,6 @@
         "byline": "By Hannah Fry, Noah Haggerty, Grace Toohey, Ruben Vives, Richard Winton, Clara Harter and Terry Castleman",
         "tags": ["Fire", "California"],
         "type": ["article"]
-    },
-    {
-        "hed": "Massive damage along the Pacific Coast Highway",
-        "date": "01-08-2025",
-        "link": "https://www.latimes.com/00000194-4832-db81-adfc-fa37f3600000-123",
-        "publication": "Los Angeles Times",
-        "lede": "Los Angeles Times reporter Noah Haggerty is in Malibu reporting on the damage the fires have done, destroying hundreds of buildings.",
-        "featured": false,
-        "show": true,
-        "byline": "By Noah Haggerty and Mark E. Potts",
-        "tags": ["Fire", "California"],
-        "type": ["video"]
     },
     {
         "hed": "Palisades fire: Worst is ‘yet to come’ as winds gain speed, ground aircraft",
@@ -741,7 +754,7 @@
         "show": true,
         "byline": "Larry Mantle, Erin Stone and Noah Haggerty",
         "tags": ["Environment", "Energy", "California"],
-        "type": ["appearance"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "CPUC approves $723 million in ratepayer costs to extend life of Diablo Canyon nuclear plant",
@@ -777,7 +790,7 @@
         "show": true,
         "byline": "Lisa McRee and Noah Haggerty",
         "tags": ["Environment"],
-        "type": ["appearance"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "Why the Forest Service is encouraging people to cut Christmas trees on public lands (with permits)",
@@ -1041,7 +1054,7 @@
         "show": true,
         "byline": "Sammy Roth, Rosanna Xia, Tony Briscoe, Monte Morin, Susanne Rust, Russ Mitchell, Lila Seidman, Alice Short, Alyssa Jaipersaud, Noah Haggerty and Ian James",
         "tags": ["Environment", "California"],
-        "type": ["appearance"]
+        "type": ["appearance", "speaker"]
     },
     {
         "hed": "Newsom’s office announces new California environmental campaign at Climate Week NYC",
@@ -1197,7 +1210,7 @@
         "show": true,
         "byline": "Lisa McRee and Noah Haggerty",
         "tags": ["Environment", "Recreation"],
-        "type": ["appearance"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "As California’s climate grows ever more hostile, a Joshua tree rescue plan takes shape",
@@ -1209,7 +1222,7 @@
         "show": true,
         "byline": "Lisa McRee and Noah Haggerty",
         "tags": ["Environment"],
-        "type": ["appearance"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "‘Hydrothermal’ explosion sends visitors fleeing at Yellowstone National Park",

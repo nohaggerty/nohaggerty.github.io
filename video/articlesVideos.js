@@ -9,7 +9,7 @@ const container = document.getElementById('article-container');
 
 function selectorFilter(article) {
     if (!(article.show)) {return false;}
-    else {return (article.type.includes("press") || article.type.includes("speaker"));}
+    else {return article.type.includes("video");}
 }
 
 function updateDisplayedArticles(articles, page) {
