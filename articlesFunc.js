@@ -38,7 +38,7 @@ function displayArticles({ data, container, articleFilter = () => true, range = 
 
 function getIcon(article) {
     const tags = article.tags;
-    const iconOrder = ["Science", "Environment", "Energy", "Space", "Ocean", "Health", "Fire"];
+    const iconOrder = ["Science", "Environment", "Energy", "Space", "Indigenous", "Health", "Fire"];
     let iconPath = "/media/None.png";
 
     iconOrder.forEach( icon => {
