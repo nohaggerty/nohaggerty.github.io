@@ -21,7 +21,7 @@
         "show": true,
         "byline": "Kate Cagle and Noah Haggerty",
         "tags": ["Fire", "California"],
-        "type": ["article"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "Many of Altadena’s standing homes are still contaminated with lead and asbestos even after cleanup",
@@ -249,7 +249,7 @@
         "show": true,
         "byline": "Kate Cagle and Noah Haggerty",
         "tags": ["Fire", "California"],
-        "type": ["article"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "Private land used for logging is more prone to severe fire than public lands. A new study shows why",
@@ -273,7 +273,7 @@
         "show": true,
         "byline": "Kate Cagle, Tony Briscoe and Noah Haggerty",
         "tags": ["Fire", "California"],
-        "type": ["article"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "‘A land that our ancestors walked’: L.A. County tribe wins land back for the first time",
