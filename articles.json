@@ -1,5 +1,77 @@
 [  
     {
+        "hed": "Can California learn to let Native American fire practitioners burn freely?",
+        "date": "11-27-2025",
+        "link": "https://www.latimes.com/environment/newsletter/2025-11-27/can-california-learn-to-let-native-american-fire-practitioners-burn-freely",
+        "publication": "Los Angeles Times",
+        "lede": "Indigenous fire practices are slowly regaining wider acceptance in California, but the dream of burning freely based on the needs of the land is still a long way off.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Indigenous", "Environment"],
+        "type": ["article"]
+    }, 
+    {
+        "hed": "Document raises new questions about restrictions on Jan. 1 Lachman fire mop-up",
+        "date": "11-27-2025",
+        "link": "https://www.latimes.com/california/story/2025-11-27/document-adds-to-questions-about-restrictions-on-lachman-fire-mop-up",
+        "publication": "Los Angeles Times",
+        "lede": "The Wildfire Management Plan for Topanga State Park sets out guidelines and restrictions. It’s unclear if the document hampered mop-up of the Lachman fire.",
+        "featured": false,
+        "show": true,
+        "byline": "By Jenny Jarvie, Alene Tchekmedyian and Noah Haggerty",
+        "tags": ["Fire", "Environment"],
+        "type": ["article"]
+    }, 
+    {
+        "hed": "LA County fire officials are advising residents of Topanga Canyon on a different strategy when a fast-moving fire approaches",
+        "date": "11-26-2025",
+        "link": "https://www.kcrw.com/shows/press-play-with-madeleine-brand/stories/how-two-movie-critics-and-their-thumbs-became-must-see-tv-50-years-ago",
+        "publication": "KCRW Press Play",
+        "lede": "Most of Topanga narrowly avoided the Palisades Fire. But residents know another one is coming eventually, and now fire officials are saying folks may have to shelter in place. LA Times’ wildfire reporter Noah Haggerty explains what that means for the canyon community, and what a recent state court ruling means for CalFire’s approach to fire prevention. ",
+        "featured": false,
+        "show": true,
+        "byline": "Madeleine Brand and Noah Haggerty",
+        "tags": ["Fire"],
+        "type": ["appearance", "press"]
+    }, 
+    {
+        "hed": "Cal Fire approach to SoCal’s wildfire crisis could make things worse, court says",
+        "date": "11-25-2025",
+        "link": "https://www.latimes.com/environment/story/2025-11-25/cal-fire-approach-to-socals-wildfire-crisis-could-make-things-worse-court-says",
+        "publication": "Los Angeles Times",
+        "lede": "A statewide Cal Fire program risks making fires worse by removing native chaparral and allowing the spread of more flammable grasses, a court ruled.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Environment"],
+        "type": ["article"]
+    }, 
+    {
+        "hed": "What if you can’t evacuate from wildfire? In Topanga, fire department says shelter in place",
+        "date": "11-24-2025",
+        "link": "https://www.latimes.com/0000019a-ae06-dd7b-a39e-bf8e652d0000-123",
+        "publication": "Los Angeles Times",
+        "lede": "L.A. County Fire plans to order Topanga residents to shelter-in-place if evacuating from fire isn’t possible. It’s raised concern from experts and residents, but the department says it has no other options.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty and Albert Brave Tiger Lee",
+        "tags": ["Fire"],
+        "type": ["video", "social"]
+    }, 
+    {
+        "hed": "Can you survive a wildfire sheltering at home? For one community, L.A. County Fire says it may be the only option",
+        "date": "11-24-2025",
+        "link": "https://www.latimes.com/environment/story/2025-11-24/la-county-fire-topanga-shelter-in-place-plan",
+        "publication": "Los Angeles Times",
+        "lede": "L.A. County Fire plans to order Topanga residents to shelter-in-place if evacuating from fire isn’t possible. It’s raised concern from experts and residents, but the department says it has no other options.",
+        "featured": true,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire"],
+        "type": ["article"]
+    }, 
+    {
         "hed": "Forest Service completed prescribed burns on 127,000 acres during shutdown, despite reduced workforce",
         "date": "11-18-2025",
         "link": "https://www.latimes.com/environment/story/2025-11-17/forest-service-did-prescribed-burns-on-127-000-acres-during-shutdown",
