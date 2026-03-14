@@ -13,7 +13,7 @@
     }, 
     {
         "hed": "Owners of fire-destroyed Palisades mobile home park seek to displace residents for development deal",
-        "date": "032-06-2026",
+        "date": "03-06-2026",
         "link": "https://www.latimes.com/environment/story/2026-03-05/fire-destroyed-mobile-home-park-seeks-development-deal-displacing-residents",
         "publication": "Los Angeles Times",
         "lede": "An offering memorandum described the destroyed mobile home park as a “blank canvas for redevelopment”; however, city officials reiterated they intend to let fire survivors return and rebuild.",
@@ -21,6 +21,18 @@
         "show": true,
         "byline": "By Noah Haggerty",
         "tags": ["Fire"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Investors keep buying up burned lots in Altadena, Pacific Palisades. Could Congress limit such sales?",
+        "date": "03-03-2026",
+        "link": "https://www.latimes.com/california/story/2026-03-03/ca-senator-wants-to-halt-investors-buying-properties-after-disasters",
+        "publication": "Los Angeles Times",
+        "lede": "Sen. Adam Schiff of California plans to introduce legislation to limit large corporate investors from buying properties after natural disasters.",
+        "featured": false,
+        "show": true,
+        "byline": "By Grace Toohey",
+        "tags": ["Fire", "Politics"],
         "type": ["article"]
     },
     {
