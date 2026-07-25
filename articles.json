@@ -1,5 +1,149 @@
 [  
     {
+        "hed": "As North America grapples with destructive wildfires, ‘super’ El Niño may offer hope",
+        "date": "07-22-2026",
+        "link": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+        "publication": "Los Angeles Times",
+        "lede": "With a very strong El Niño almost certainly on its way, the southern U.S. could see extra precipitation this winter, damping wildfire risk next summer.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Climate", "Science"],
+        "type": ["article", "data"]
+    },
+    {
+        "hed": "Bass administration quietly replaced chief heat officer a month ago",
+        "date": "07-16-2026",
+        "link": "https://www.latimes.com/environment/story/2026-07-16/bass-administration-quietly-replaced-chief-heat-officer-month-ago",
+        "publication": "Los Angeles Times",
+        "lede": "After L.A. City Council rejected Mayor Bass’ proposal to eliminate the city’s climate emergency office, her administration quietly replaced its inaugural director with a senior Bass advisor.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Politics", "Climate"],
+        "type": ["article"]
+    },
+    {
+        "hed": "After wildfires destroyed 95% of this California tribe’s forests, members uncovered 1,200 ancestral sites",
+        "date": "07-16-2026",
+        "link": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
+        "publication": "Los Angeles Times",
+        "lede": "After devastating fires turned their forest into a moonscape, members of the Konkow Valley Band of Maidu found evidence of their vibrant tribal history everywhere.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Indigenous", "People"],
+        "type": ["article"]
+    },
+    {
+        "hed": "‘I’d rather my house burn down than get cancer’: Two California communities fight to save their forests",
+        "date": "07-09-2026",
+        "link": "https://www.latimes.com/environment/story/2026-07-09/should-we-spray-burn-scars-with-glyphosate-californians-reckon-with-grim-reality",
+        "publication": "Los Angeles Times",
+        "lede": "A U.S. Forest Service plan to use glyphosate in a burned forest spurs a reckoning in Tahoe: How much should people do to bring forests back?",
+        "featured": true,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Health", "People"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Forest Service firefighters can now wear breathing masks for some work on the fire line",
+        "date": "07-02-2026",
+        "link": "https://www.latimes.com/environment/newsletter/2026-07-02/feds-finally-allow-masks-during-firefighting",
+        "publication": "Los Angeles Times",
+        "lede": "Experts say waiting for the perfect breathing gear has left firefighters exposed to dangerous smoke.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Health"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Beach Boys’ Mike Love selling Lake Tahoe mansion for $43 million",
+        "date": "06-29-2026",
+        "link": "https://www.latimes.com/california/story/2026-06-29/beach-boys-mike-love-selling-lake-tahoe-mansion-for-43-million",
+        "publication": "Los Angeles Times",
+        "lede": "The vast Lake Tahoe estate of Beach Boys co-founder Mike Love, complete with a theater, wine tasting room, ice-skating rink and sauna, could be yours — for the small price of $43 million.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": [],
+        "type": ["article"]
+    },
+    {
+        "hed": "Wife, kids of Dodgers’ Miguel Rojas in Caracas when earthquakes hit Venezuela",
+        "date": "06-28-2026",
+        "link": "https://www.latimes.com/sports/dodgers/story/2026-06-28/wife-kids-of-dodgers-miguel-rojas-survive-venezuela-earthquakes",
+        "publication": "Los Angeles Times",
+        "lede": "‘Literally two blocks away from where my family was, two buildings collapsed — the whole building,’ Miguel Rojas said.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Sports", "Disaster"],
+        "type": ["article"]
+    },
+    {
+        "hed": "SoCal man dosed his kids with hallucinogenic mushrooms every day",
+        "date": "06-28-2026",
+        "link": "https://www.latimes.com/california/story/2026-06-28/san-diego-county-man-fed-kids-hallucinogenic-mushrooms-daily",
+        "publication": "Los Angeles Times",
+        "lede": "A man in North San Diego County pleaded guilty to enlisting his 9- and 11-year-old kids in a conspiracy to grow and distribute psilocybin mushrooms. He also admitted to feeding the two kids psilocybin capsules daily.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": [],
+        "type": ["article"]
+    },
+    {
+        "hed": "SoCal firefighters warn of higher fire risk in June at start of fire season",
+        "date": "06-13-2026",
+        "link": "https://www.instagram.com/reel/DZitf40lJ8C/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "publication": "Los Angeles Times",
+        "lede": "Fire officials are bracing for an active fire season in Northern California as high temperatures dry out forests. Southern California will likely see a typical season.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty and Albert Brave Tiger Lee",
+        "tags": ["Fire"],
+        "type": ["video", "social"]
+    },
+    {
+        "hed": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
+        "date": "06-13-2026",
+        "link": "https://www.latimes.com/environment/story/2026-06-13/norcal-braces-for-dangerous-fire-season-socal-expects-typical",
+        "publication": "Los Angeles Times",
+        "lede": "Fire officials are bracing for an active fire season in Northern California as high temperatures dry out forests. Southern California will likely see a typical season.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Proud Boy booted from Spencer Pratt election night party",
+        "date": "06-06-2026",
+        "link": "https://www.latimes.com/california/newsletter/2026-06-06/proud-boy-booted-from-spencer-pratt-election-night-party",
+        "publication": "Los Angeles Times",
+        "lede": "Spencer Pratt’s election night party at Don Antonio’s Mexican restaurant in West Los Angeles included a few uninvited guests.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Goldberg and Noah Haggerty",
+        "tags": ["Politics"],
+        "type": ["article"]
+    },
+    {
+        "hed": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+        "date": "06-05-2026",
+        "link": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+        "publication": "Los Angeles Times",
+        "lede": "State and federal fire officials have unveiled a new plan to boost wildfire prevention, even as California funding sources are drying up.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire", "Politics"],
+        "type": ["article"]
+    },
+    {
         "hed": "Confident Pratt addresses early returns, turns focus on Bass, ‘I hope she’s ready’",
         "date": "06-02-2026",
         "link": "https://www.latimes.com/california/live/live-updates-june-primary-election-2026#p=confident-pratt-addresses-early-returns-turns-focus-on-bass-i-hope-shes-ready",
@@ -1028,7 +1172,7 @@
         "featured": false,
         "show": true,
         "byline": "By Noah Haggerty",
-        "tags": ["politics", "California"],
+        "tags": ["Politics", "California"],
         "type": ["article"]
     }, 
     {
@@ -1762,7 +1906,7 @@
         "show": true,
         "byline": "Lisa McRee and Noah Haggerty",
         "tags": ["Fire", "Environment", "California"],
-        "type": ["article"]
+        "type": ["appearance", "press"]
     },
     {
         "hed": "Cal Fire releases new hazard maps for the Bay Area and wine country",
