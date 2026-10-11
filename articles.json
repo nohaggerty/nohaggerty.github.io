@@ -276,6 +276,18 @@
         "type": ["appearance", "press"]
     },
     {
+        "hed": "Our systems will fail",
+        "date": "08-06-2026",
+        "link": "https://tssw.tulane.edu/news/disaster-resilience-leadership-students-travel-los-angeles-study-wildfire-recovery",
+        "publication": "Tulane University Disaster Resilience Leadership Academy",
+        "lede": "In early August, 11 students from Tulane School of Social Work traveled to Los Angeles to learn about community resilience and recovery in the wake of the wildfires that ravaged much of Southern California in 2025.",
+        "featured": false,
+        "show": true,
+        "byline": "By Noah Haggerty",
+        "tags": ["Fire"],
+        "type": ["appearance", "speaker"]
+    },
+    {
         "hed": "Discarded SpaceX rocket crashes into moon",
         "date": "08-05-2026",
         "link": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
